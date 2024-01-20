@@ -1,4 +1,4 @@
-# Flask REST API
+# Flask REST API e REST FUL
 
 Este é um projeto simples que demonstra como criar uma API REST usando Flask com operações básicas: POST, GET, PUT e DELETE.
 
